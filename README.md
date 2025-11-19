@@ -17,10 +17,10 @@ You can simply train model with the following command:
 ```
 python train.py
 ```
-You can download the PUNet dataset [here]([https://github.com/luost26/score-denoise](https://github.com/ddsediri/IterativePFN/tree/main)).
+Our code is partially based on IterativePFN. All training and evaluation data can be downloaded from repo of [here](https://github.com/ddsediri/IterativePFN/tree/main).
 
 ## Test
-You can simply test DHCN with the following command:
+You can simply test model with the following command:
 ```
 python test.py
 ```
